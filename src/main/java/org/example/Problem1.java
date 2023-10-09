@@ -18,6 +18,7 @@ public class Problem1 {
 
         double result=calculator(a,b,op);
         System.out.println(result);
+        scanner.close();
     }
     public static double calculator(double a,double b,String operation)
     {
