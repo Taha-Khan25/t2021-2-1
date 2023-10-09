@@ -39,5 +39,6 @@ public class Problem4 {
         }
         System.out.println("Output:");
         System.out.println(dict);
+        scanner.close();
     }
 }
